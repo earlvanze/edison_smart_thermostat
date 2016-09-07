@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Local Temperature Node.js IoT App
 ============================
 The Local Temperature Node.js sample application distributed within Intel® XDK IoT Edition under the IoT with Node.js Projects project creation option showcases how to read analog data from a Grover Starter Kit Plus – IoT Intel® Edition Temperature Sensor, start a web server and communicate wirelessly using WebSockets.
@@ -65,3 +66,7 @@ http://socket.io/
 
 * source: https://github.com/Automattic/socket.io
 * license: https://github.com/Automattic/socket.io/blob/master/LICENSE
+=======
+# edison_smart_thermostat
+Intel Edison Temperature LCD Monitor with IFTTT Maker channel trigger and scheduling
+>>>>>>> d3ca97eb5f7eae078f75ec7967111bd5a916a577
