@@ -1,0 +1,43 @@
+<!DOCTYPE html><!--HTML5 doctype-->
+<html>
+<head>
+	<title>Temperature Checker Companion App</title>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0" />
+	<style type="text/css">
+		/* Prevent copy paste for all elements except text fields */
+		*  { -webkit-user-select:none; -webkit-tap-highlight-color:rgba(255, 255, 255, 0); }
+		input, textarea  { -webkit-user-select:text; }
+		body { background-color:white; color:black }
+	</style>
+    <!--  jQuery  -->
+    <script src="lib/jquery/jquery-2.1.1.js"></script>
+    <!--  App Framework  -->
+    <link rel="stylesheet" type="text/css" href="lib/appframework/af.ui.css"></link>
+    <script type="text/javascript" src="lib/appframework/jq.appframework.min.js"></script>
+<!--    <script type="text/javascript" src="lib/appframework/appframework.js"></script>-->
+    <script type="text/javascript" charset="utf-8" src="lib/appframework/appframework.ui.min.js"></script>
+    <script src="lib/d3/d3.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/main.css"></link>
+</head>
+<body>
+	<div id="afui">
+        
+        <div id="content">
+            
+            <div id="main" title="LocalTemperature" class="panel" data-footer="none">
+                <div class="center">
+                    <h1>How Hot is It?(°F)</h1>               
+                    <div id="gauge"><span>Temp</span></div>
+                    <div id="chart"></div>
+                </div>     
+                <div>
+                    <b>Log:</b><br>
+                    <div id="feedback_log" class="redtext"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script type="text/javascript" src="js/app.js"></script>
+</html>

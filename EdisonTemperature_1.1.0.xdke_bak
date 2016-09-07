@@ -1,0 +1,12 @@
+{
+  "project": {
+    "projectSettingsVersion": "1.1",
+    "projectFiles": {},
+    "projectDirectories": {},
+    "currentService": {
+      "methodapi": "forecast",
+      "endPoint": "Forecast",
+      "service": "forecast"
+    }
+  }
+}

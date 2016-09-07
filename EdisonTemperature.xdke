@@ -1,0 +1,188 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "projectFiles": {},
+    "projectDirectories": {},
+    "currentService": {
+      "methodapi": "forecast",
+      "endPoint": "Forecast",
+      "service": "forecast"
+    },
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": null
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "EdisonTemperature.xdk": {
+        "previousModTime": 1473137410000,
+        "modified": 1473137410000,
+        "seen": true,
+        "name": "EdisonTemperature.xdk"
+      },
+      "EdisonTemperature.xdke": {
+        "previousModTime": 1473210705000,
+        "modified": 1473210705000,
+        "seen": true,
+        "name": "EdisonTemperature.xdke"
+      },
+      "EdisonTemperature_1.1.0.xdk_bak": {
+        "previousModTime": 1468737509000,
+        "modified": 1468737509000,
+        "seen": true,
+        "name": "EdisonTemperature_1.1.0.xdk_bak"
+      },
+      "EdisonTemperature_1.1.0.xdke_bak": {
+        "previousModTime": 1468737509000,
+        "modified": 1468737509000,
+        "seen": true,
+        "name": "EdisonTemperature_1.1.0.xdke_bak"
+      },
+      "README.md": {
+        "previousModTime": 1414478639000,
+        "modified": 1414478639000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "icon.png": {
+        "previousModTime": 1414478639000,
+        "modified": 1414478639000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1473210752000,
+        "modified": 1473210752000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1473210744000,
+        "modified": 1473210744000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk-publish-meta-data.json": {
+        "previousModTime": 1468737509000,
+        "modified": 1468737509000,
+        "seen": true,
+        "name": "xdk-publish-meta-data.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1468737509000,
+        "modified": 1468737509000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "xdk/services/service-credentials.js": {
+        "previousModTime": 1414485555000,
+        "modified": 1414485555000,
+        "seen": true,
+        "name": "xdk/services/service-credentials.js"
+      },
+      "xdk/services/service-methods.js": {
+        "previousModTime": 1414485555000,
+        "modified": 1414485555000,
+        "seen": true,
+        "name": "xdk/services/service-methods.js"
+      },
+      "www/index.html": {
+        "previousModTime": 1473145672000,
+        "modified": 1473145672000,
+        "seen": true,
+        "name": "www/index.html"
+      },
+      "www/css/main.css": {
+        "previousModTime": 1414480294000,
+        "modified": 1414480294000,
+        "seen": true,
+        "name": "www/css/main.css"
+      },
+      "www/js/main.js": {
+        "previousModTime": 1473144934000,
+        "modified": 1473144934000,
+        "seen": true,
+        "name": "www/js/main.js"
+      },
+      "www/lib/appframework/af.ui.css": {
+        "previousModTime": 1414480294000,
+        "modified": 1414480294000,
+        "seen": true,
+        "name": "www/lib/appframework/af.ui.css"
+      },
+      "www/lib/appframework/appframework.js": {
+        "previousModTime": 1414480294000,
+        "modified": 1414480294000,
+        "seen": true,
+        "name": "www/lib/appframework/appframework.js"
+      },
+      "www/lib/appframework/appframework.ui.min.js": {
+        "previousModTime": 1414480294000,
+        "modified": 1414480294000,
+        "seen": true,
+        "name": "www/lib/appframework/appframework.ui.min.js"
+      },
+      "www/lib/appframework/jq.appframework.min.js": {
+        "previousModTime": 1414480294000,
+        "modified": 1414480294000,
+        "seen": true,
+        "name": "www/lib/appframework/jq.appframework.min.js"
+      },
+      "www/lib/d3/d3.min.js": {
+        "previousModTime": 1414480294000,
+        "modified": 1414480294000,
+        "seen": true,
+        "name": "www/lib/d3/d3.min.js"
+      },
+      "www/lib/jquery/jquery-2.1.1.js": {
+        "previousModTime": 1414480294000,
+        "modified": 1414480294000,
+        "seen": true,
+        "name": "www/lib/jquery/jquery-2.1.1.js"
+      },
+      "www/xdk/project-info.json": {
+        "previousModTime": 1469408456000,
+        "modified": 1469408456000,
+        "seen": true,
+        "name": "www/xdk/project-info.json"
+      },
+      "www/js/app.js": {
+        "previousModTime": 1473146140000,
+        "modified": 1473146140000,
+        "seen": true,
+        "name": "www/js/app.js"
+      },
+      "js/schedule.js": {
+        "previousModTime": 1473210742000,
+        "modified": 1473210742000,
+        "seen": true,
+        "name": "js/schedule.js"
+      },
+      "js/schedule.json": {
+        "previousModTime": 1473210462000,
+        "modified": 1473210462000,
+        "seen": true,
+        "name": "js/schedule.json"
+      },
+      "js/moment.js": {
+        "previousModTime": 1343243281000,
+        "modified": 1343243281000,
+        "seen": true,
+        "name": "js/moment.js"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1473210804229
+      },
+      "package.json": {
+        "previousModTime": 1473210804229
+      },
+      "js/schedule.js": {
+        "previousModTime": 1473210804229
+      }
+    }
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  }
+}
